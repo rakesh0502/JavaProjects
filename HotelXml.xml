@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<HotelDetails>
+<Hotel>
+<HotelId>Taaj1005</HotelId>
+<HotelName>Taaj</HotelName>
+<City>Mumbai</City>
+<PhoneNumber>9876543210</PhoneNumber>
+<EmailId>taaj1976@gmail.com</EmailId>
+<DateOfRegistration>1976/12/05</DateOfRegistration>
+</Hotel>
+<Hotel>
+<HotelId>Oberoi1006</HotelId>
+<HotelName>Oberoi</HotelName>
+<City>Mumbai</City>
+<PhoneNumber>9876543012</PhoneNumber>
+<EmailId>oberoi1985@gmail.com</EmailId>
+<DateOfRegistration>1985/10/16</DateOfRegistration>
+</Hotel>
+</HotelDetails>
