@@ -1,6 +1,6 @@
 /**
  * File: HotelManagement
- * Package: com.igate.hotelmanagement.service
+ * Package: com.xyz.hotelmanagement.service
  * Description: Service Layer for Hotel Service
  * Version: 1.0
  * Author: Rakeshsingh Rana @author rr812950
