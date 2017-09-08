@@ -1,6 +1,6 @@
 /**
  * File: HotelManagement
- * Package: com.igate.hotelmanagement.pl
+ * Package: com.xyz.hotelmanagement.pl
  * Description: Presentation Layer for User interaction
  * Version: 1.0
  * Author: Rakeshsingh Rana @author rr812950
